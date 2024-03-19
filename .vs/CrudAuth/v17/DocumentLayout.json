@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alfon\\Desktop\\REPOS\\CrudAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA37B5F1-6113-4085-AC63-1BC157CC4F14}|CrudAuth\\CrudAuth.csproj|c:\\users\\alfon\\desktop\\repos\\crudauth\\crudauth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA37B5F1-6113-4085-AC63-1BC157CC4F14}|CrudAuth\\CrudAuth.csproj|solutionrelative:crudauth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA37B5F1-6113-4085-AC63-1BC157CC4F14}|CrudAuth\\CrudAuth.csproj|c:\\users\\alfon\\desktop\\repos\\crudauth\\crudauth\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA37B5F1-6113-4085-AC63-1BC157CC4F14}|CrudAuth\\CrudAuth.csproj|solutionrelative:crudauth\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 406,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\alfon\\Desktop\\REPOS\\CrudAuth\\CrudAuth\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "CrudAuth\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\alfon\\Desktop\\REPOS\\CrudAuth\\CrudAuth\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "CrudAuth\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:22:18.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\alfon\\Desktop\\REPOS\\CrudAuth\\CrudAuth\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CrudAuth\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\alfon\\Desktop\\REPOS\\CrudAuth\\CrudAuth\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CrudAuth\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:17:34.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

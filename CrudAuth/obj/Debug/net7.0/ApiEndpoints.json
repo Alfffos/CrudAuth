@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "CrudAuth.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/User/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "CrudAuth.Models.DTOs.UserCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudAuth.Controllers.UserController",
+    "Method": "DeletUser",
+    "RelativePath": "api/User/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudAuth.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/User/GetAllUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudAuth.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/User/GetByIdUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudAuth.Controllers.AuthenticationController",
+    "Method": "Authenticate",
+    "RelativePath": "Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autenticationRequestBody",
+        "Type": "Agenda_api.Models.DTOs.AutenticationRequestBody",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
